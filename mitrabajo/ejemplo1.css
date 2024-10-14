@@ -6,3 +6,8 @@ body {
     text-align: center;
     border: beige;
 }
+
+h1 {
+    color: black;
+    background-color: white;
+}
